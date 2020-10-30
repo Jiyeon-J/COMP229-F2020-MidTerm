@@ -1,3 +1,11 @@
+/*
+File name: MidTerm
+Author: Jiyeon Jeon 
+StudentID: 301103064
+WebApp: COMP229-F2020-MidTerm-301103064
+*/
+
+
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
